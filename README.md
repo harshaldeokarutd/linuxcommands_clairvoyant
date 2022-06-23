@@ -16,4 +16,7 @@ linux commands and their description
 5. grep
 <img width="522" alt="grep" src="https://user-images.githubusercontent.com/92963066/175368591-d0d9e883-e689-4be1-88b4-38e5cb5be6c4.png">
 
+6. How to pipe commands?
+<img width="618" alt="pipe" src="https://user-images.githubusercontent.com/92963066/175376870-0b83a36c-0cf6-4b50-9ac7-4b7a9476622b.png">
+
 
