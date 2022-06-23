@@ -25,6 +25,12 @@ linux commands and their description
 8. show hidden files
 <img width="1291" alt="show hidden files" src="https://user-images.githubusercontent.com/92963066/175380692-50f96761-171a-4343-ae05-f388b248bfac.png">
 
+9. Output redirection
+<img width="772" alt="output" src="https://user-images.githubusercontent.com/92963066/175429687-5f783065-f927-4d8a-8260-8572ce7bc85a.png">
+
+10. Check which process are running
+<img width="1728" alt="Processes" src="https://user-images.githubusercontent.com/92963066/175430041-bff2fe7f-77c1-4896-ad3a-38d6c35db939.png">
+
 
 
 
