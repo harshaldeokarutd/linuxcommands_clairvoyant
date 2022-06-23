@@ -22,5 +22,9 @@ linux commands and their description
 7. mkdir
 ![image](https://user-images.githubusercontent.com/92963066/175379254-c92a2fd3-dd0a-4ec7-b63f-0257a2599c99.png)
 
+8. show hidden files
+<img width="1291" alt="show hidden files" src="https://user-images.githubusercontent.com/92963066/175380692-50f96761-171a-4343-ae05-f388b248bfac.png">
+
+
 
 
