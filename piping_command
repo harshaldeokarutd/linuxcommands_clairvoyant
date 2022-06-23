@@ -1,0 +1,2 @@
+cat helloWorld.txt | head -2
+cat helloWorld.txt | tail -2
