@@ -19,4 +19,8 @@ linux commands and their description
 6. How to pipe commands?
 <img width="618" alt="pipe" src="https://user-images.githubusercontent.com/92963066/175376870-0b83a36c-0cf6-4b50-9ac7-4b7a9476622b.png">
 
+7. mkdir
+![image](https://user-images.githubusercontent.com/92963066/175379254-c92a2fd3-dd0a-4ec7-b63f-0257a2599c99.png)
+
+
 
