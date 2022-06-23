@@ -13,3 +13,7 @@ linux commands and their description
 4. vi
 <img width="711" alt="vi" src="https://user-images.githubusercontent.com/92963066/175353195-eef28179-3ce5-4498-bbe3-8368e60c80ee.png">
 
+5. grep
+<img width="522" alt="grep" src="https://user-images.githubusercontent.com/92963066/175368591-d0d9e883-e689-4be1-88b4-38e5cb5be6c4.png">
+
+
