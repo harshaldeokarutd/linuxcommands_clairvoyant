@@ -31,6 +31,10 @@ linux commands and their description
 10. Check which process are running
 <img width="1728" alt="Processes" src="https://user-images.githubusercontent.com/92963066/175430041-bff2fe7f-77c1-4896-ad3a-38d6c35db939.png">
 
+11. Check user home directory
+<img width="539" alt="home" src="https://user-images.githubusercontent.com/92963066/175557828-755556cf-58e2-406e-9d1f-5db805309f86.png">
+
+
 
 
 
