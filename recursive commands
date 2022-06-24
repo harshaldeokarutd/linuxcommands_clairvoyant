@@ -1,0 +1,2 @@
+grep -r Hello /Users/harshaldeokar/documents/test/ 
+rm -r /Users/harshaldeokar/documents/test1/
