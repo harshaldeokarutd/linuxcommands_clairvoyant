@@ -49,6 +49,10 @@ linux commands and their description
 16. Making file executable
 <img width="550" alt="executable" src="https://user-images.githubusercontent.com/92963066/175611267-a42829df-e240-42e6-b8c9-408525bb3dd0.png">
 
+17. Recursive commands
+<img width="710" alt="recursive" src="https://user-images.githubusercontent.com/92963066/175618131-8bac4058-ce4c-44c0-a670-cc18cc25c657.png">
+
+
 
 
 
