@@ -34,6 +34,13 @@ linux commands and their description
 11. Check user home directory
 <img width="539" alt="home" src="https://user-images.githubusercontent.com/92963066/175557828-755556cf-58e2-406e-9d1f-5db805309f86.png">
 
+12. Changing file permissions
+<img width="570" alt="permissions" src="https://user-images.githubusercontent.com/92963066/175565357-b6439b8b-6355-4b00-b74b-b83bbcf80e09.png">
+
+13. Changing directory permissions
+<img width="854" alt="permissions_dir" src="https://user-images.githubusercontent.com/92963066/175566352-614c0b4c-faee-4b03-9493-046a05cd2246.png">
+
+
 
 
 
