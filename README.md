@@ -40,6 +40,11 @@ linux commands and their description
 13. Changing directory permissions
 <img width="854" alt="permissions_dir" src="https://user-images.githubusercontent.com/92963066/175566352-614c0b4c-faee-4b03-9493-046a05cd2246.png">
 
+14. Making file read only
+<img width="540" alt="read only" src="https://user-images.githubusercontent.com/92963066/175570515-f079294d-8536-4512-a8ad-2849a0182c2f.png">
+
+
+
 
 
 
