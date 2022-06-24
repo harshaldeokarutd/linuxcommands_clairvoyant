@@ -43,6 +43,10 @@ linux commands and their description
 14. Making file read only
 <img width="540" alt="read only" src="https://user-images.githubusercontent.com/92963066/175570515-f079294d-8536-4512-a8ad-2849a0182c2f.png">
 
+15. Making file read, write and executable
+<img width="575" alt="rwe" src="https://user-images.githubusercontent.com/92963066/175609800-76ce51ba-ec18-4a38-8d9e-a46aac8f93c2.png">
+
+
 
 
 
