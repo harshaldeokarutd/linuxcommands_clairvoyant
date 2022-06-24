@@ -52,6 +52,9 @@ linux commands and their description
 17. Recursive commands
 <img width="710" alt="recursive" src="https://user-images.githubusercontent.com/92963066/175618131-8bac4058-ce4c-44c0-a670-cc18cc25c657.png">
 
+18. Navigating absolute and relative paths
+<img width="760" alt="absolute and relative" src="https://user-images.githubusercontent.com/92963066/175664886-1bfeaccb-977b-4da5-b79d-65c587e8cc33.png">
+
 
 
 
