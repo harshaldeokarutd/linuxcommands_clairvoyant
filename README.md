@@ -46,6 +46,8 @@ linux commands and their description
 15. Making file read, write and executable
 <img width="575" alt="rwe" src="https://user-images.githubusercontent.com/92963066/175609800-76ce51ba-ec18-4a38-8d9e-a46aac8f93c2.png">
 
+16. Making file executable
+<img width="550" alt="executable" src="https://user-images.githubusercontent.com/92963066/175611267-a42829df-e240-42e6-b8c9-408525bb3dd0.png">
 
 
 
