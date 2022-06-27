@@ -55,6 +55,8 @@ linux commands and their description
 18. Navigating absolute and relative paths
 <img width="760" alt="absolute and relative" src="https://user-images.githubusercontent.com/92963066/175664886-1bfeaccb-977b-4da5-b79d-65c587e8cc33.png">
 
+19. Create a new user
+<img width="1256" alt="new user" src="https://user-images.githubusercontent.com/92963066/175964961-6146497b-140c-4ffc-8584-0e29b6543bda.png">
 
 
 
