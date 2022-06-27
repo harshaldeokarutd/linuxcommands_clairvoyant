@@ -1,0 +1,1 @@
+sudo sysadminctl -addUser test123   --- This is command for zsh which is default terminal on MacOS
