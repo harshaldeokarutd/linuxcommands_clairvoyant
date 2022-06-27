@@ -70,6 +70,9 @@ linux commands and their description
 23. Running a process in background even after session ended.
 <img width="562" alt="background" src="https://user-images.githubusercontent.com/92963066/175982052-2807a645-e536-4363-89d5-88ad61cc965a.png">
 
+24. export command
+<img width="1066" alt="export" src="https://user-images.githubusercontent.com/92963066/175997056-9ba35026-5f2b-42d9-8fd4-4f4615276fbb.png">
+
 
 
 
