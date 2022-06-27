@@ -61,6 +61,10 @@ linux commands and their description
 20. Switching between users
 <img width="512" alt="switch" src="https://user-images.githubusercontent.com/92963066/175969226-918522f9-bdfe-4765-bbfe-d5ed575ac2bc.png">
 
+21. Running a process in background wiht output redirection
+<img width="915" alt="Running a process in the background with o:p redirection" src="https://user-images.githubusercontent.com/92963066/175975453-0d553a3b-aa9e-4a5e-b6f0-45d447e6e950.png">
+
+
 
 
 
