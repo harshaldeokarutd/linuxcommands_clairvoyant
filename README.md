@@ -64,6 +64,8 @@ linux commands and their description
 21. Running a process in background wiht output redirection
 <img width="915" alt="Running a process in the background with o:p redirection" src="https://user-images.githubusercontent.com/92963066/175975453-0d553a3b-aa9e-4a5e-b6f0-45d447e6e950.png">
 
+22. Delete the new user
+<img width="665" alt="delete" src="https://user-images.githubusercontent.com/92963066/175977093-61684495-510d-4c9a-a9b8-3e5307905caa.png">
 
 
 
