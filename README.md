@@ -73,6 +73,10 @@ linux commands and their description
 24. export command
 <img width="1066" alt="export" src="https://user-images.githubusercontent.com/92963066/175997056-9ba35026-5f2b-42d9-8fd4-4f4615276fbb.png">
 
+25. How to add to a path to the path variable
+<img width="777" alt="Path" src="https://user-images.githubusercontent.com/92963066/176022511-59dc3260-f4c0-4663-9f83-44f7645740c0.png">
+
+
 
 
 
