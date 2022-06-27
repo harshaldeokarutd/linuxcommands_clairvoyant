@@ -58,6 +58,8 @@ linux commands and their description
 19. Create a new user
 <img width="1256" alt="new user" src="https://user-images.githubusercontent.com/92963066/175964961-6146497b-140c-4ffc-8584-0e29b6543bda.png">
 
+20. Switching between users
+<img width="512" alt="switch" src="https://user-images.githubusercontent.com/92963066/175969226-918522f9-bdfe-4765-bbfe-d5ed575ac2bc.png">
 
 
 
