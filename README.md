@@ -82,6 +82,11 @@ linux commands and their description
 27. Find command usage
 <img width="714" alt="find" src="https://user-images.githubusercontent.com/92963066/176029188-4497e696-88b0-4cc4-8405-12e2a69836ba.png">
 
+28. Check process running on a port
+![image](https://user-images.githubusercontent.com/92963066/176044004-56312441-5e8a-4d51-8c0b-3dc0648989c6.png)
+
+
+
 
 
 
