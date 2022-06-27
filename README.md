@@ -76,6 +76,9 @@ linux commands and their description
 25. How to add to a path to the path variable
 <img width="777" alt="Path" src="https://user-images.githubusercontent.com/92963066/176022511-59dc3260-f4c0-4663-9f83-44f7645740c0.png">
 
+26. How is linux filesystem organized
+<img width="607" alt="image" src="https://user-images.githubusercontent.com/92963066/176026943-d2838495-0e63-4786-887d-08a506aafdd3.png">
+
 
 
 
