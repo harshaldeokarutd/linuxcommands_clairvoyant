@@ -79,6 +79,11 @@ linux commands and their description
 26. How is linux filesystem organized
 <img width="607" alt="image" src="https://user-images.githubusercontent.com/92963066/176026943-d2838495-0e63-4786-887d-08a506aafdd3.png">
 
+27. Find command usage
+<img width="714" alt="find" src="https://user-images.githubusercontent.com/92963066/176029188-4497e696-88b0-4cc4-8405-12e2a69836ba.png">
+
+
+
 
 
 
