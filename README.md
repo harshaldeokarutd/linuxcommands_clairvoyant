@@ -67,6 +67,10 @@ linux commands and their description
 22. Delete the new user
 <img width="665" alt="delete" src="https://user-images.githubusercontent.com/92963066/175977093-61684495-510d-4c9a-a9b8-3e5307905caa.png">
 
+23. Running a process in background even after session ended.
+<img width="562" alt="background" src="https://user-images.githubusercontent.com/92963066/175982052-2807a645-e536-4363-89d5-88ad61cc965a.png">
+
+
 
 
 
