@@ -1,0 +1,1 @@
+scp -i ec2_instance_key.pem sales-data.csv hadoop@ec2-54-172-159-183.compute-1.amazonaws.com:~
