@@ -100,6 +100,9 @@ linux commands and their description
 33. Removing a user from a group
 <img width="779" alt="delusernamegroup" src="https://user-images.githubusercontent.com/92963066/176245787-a665687f-3259-4774-a91f-a4781e706443.png">
 
+34. Running a process in the background
+<img width="619" alt="background1" src="https://user-images.githubusercontent.com/92963066/176262627-b968a00a-4bc7-41c7-9e12-e2bf3f64b84d.png">
+
 
 
 
