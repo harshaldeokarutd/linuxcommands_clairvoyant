@@ -91,6 +91,8 @@ linux commands and their description
 30. SCP
 <img width="1711" alt="scp" src="https://user-images.githubusercontent.com/92963066/176069932-024bd101-25b2-4b21-a4e6-55e6c13b6087.png">
 
+31. SSH
+<img width="609" alt="ssh" src="https://user-images.githubusercontent.com/92963066/176231074-1fda729c-59b4-492e-91b0-1138c5dc84af.png">
 
 
 
