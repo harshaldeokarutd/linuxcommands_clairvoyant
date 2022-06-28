@@ -85,6 +85,12 @@ linux commands and their description
 28. Check process running on a port
 ![image](https://user-images.githubusercontent.com/92963066/176044004-56312441-5e8a-4d51-8c0b-3dc0648989c6.png)
 
+29. SSH using key file
+<img width="946" alt="ssh keyfile" src="https://user-images.githubusercontent.com/92963066/176066201-1f944f69-1a51-4bbb-a18d-ad593c0f5c60.png">
+
+30. SCP
+<img width="1711" alt="scp" src="https://user-images.githubusercontent.com/92963066/176069932-024bd101-25b2-4b21-a4e6-55e6c13b6087.png">
+
 
 
 
