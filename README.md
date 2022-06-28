@@ -94,6 +94,10 @@ linux commands and their description
 31. SSH
 <img width="609" alt="ssh" src="https://user-images.githubusercontent.com/92963066/176231074-1fda729c-59b4-492e-91b0-1138c5dc84af.png">
 
+32. Adding groups to the user
+<img width="725" alt="useradd" src="https://user-images.githubusercontent.com/92963066/176244337-da3d8c98-355d-4626-9528-3b68ffa1f87d.png">
+
+33. 
 
 
 
