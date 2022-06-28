@@ -106,6 +106,10 @@ linux commands and their description
 35. Make folder read only, read and write, read, write and execute
 <img width="606" alt="folder" src="https://user-images.githubusercontent.com/92963066/176267787-dfa65108-60a5-4606-88cc-f3cad49419fa.png">
 
+36. Firewall add a port,remove a port
+![unnamed](https://user-images.githubusercontent.com/92963066/176279179-891fc6b7-4a74-40c4-9d4c-7c79cf3e1fab.png)
+
+
 
 
 
