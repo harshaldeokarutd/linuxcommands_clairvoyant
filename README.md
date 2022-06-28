@@ -103,6 +103,8 @@ linux commands and their description
 34. Running a process in the background
 <img width="619" alt="background1" src="https://user-images.githubusercontent.com/92963066/176262627-b968a00a-4bc7-41c7-9e12-e2bf3f64b84d.png">
 
+35. Make folder read only, read and write, read, write and execute
+<img width="606" alt="folder" src="https://user-images.githubusercontent.com/92963066/176267787-dfa65108-60a5-4606-88cc-f3cad49419fa.png">
 
 
 
