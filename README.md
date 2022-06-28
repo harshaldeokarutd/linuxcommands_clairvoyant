@@ -97,7 +97,8 @@ linux commands and their description
 32. Adding groups to the user
 <img width="725" alt="useradd" src="https://user-images.githubusercontent.com/92963066/176244337-da3d8c98-355d-4626-9528-3b68ffa1f87d.png">
 
-33. 
+33. Removing a user from a group
+<img width="779" alt="delusernamegroup" src="https://user-images.githubusercontent.com/92963066/176245787-a665687f-3259-4774-a91f-a4781e706443.png">
 
 
 
