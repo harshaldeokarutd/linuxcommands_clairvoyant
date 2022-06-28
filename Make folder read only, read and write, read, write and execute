@@ -1,0 +1,3 @@
+chmod 444 test
+chmod 666 test
+chmod 777 test
